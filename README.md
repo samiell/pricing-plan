@@ -2,6 +2,10 @@
 
 ## Project setup
 ```
+git clone https://github.com/samiell/pricing-plan
+```
+
+```
 yarn install
 ```
 
